@@ -37,6 +37,8 @@ Esta é uma API RESTful desenvolvida em **Node.js** com **Express**, criada para
 api-tarefas/
 ├── index.js
 └── tarefas.js
+package-lock.json
+package.json
 readme.md
 
 ```
