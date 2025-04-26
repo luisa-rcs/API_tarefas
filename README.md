@@ -35,12 +35,9 @@ Esta é uma API RESTful desenvolvida em **Node.js** com **Express**, criada para
 
 ```
 api-tarefas/
-├── tarefas.js
 ├── index.js
-└── package.json
-
-documentação/
-└── readme.md
+└── tarefas.js
+readme.md
 
 ```
 
